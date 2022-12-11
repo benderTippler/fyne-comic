@@ -7,7 +7,7 @@
 
 ![列表页面](https://user-images.githubusercontent.com/19621909/206907105-363bcd52-2c12-489d-93dc-57e28ab1bccb.png)
 
-
+![线上阅读](https://user-images.githubusercontent.com/19621909/206907023-4ceab70c-6707-4c97-9c99-4235f78db80b.png)
 
 # 漫画大师资源来源于以下网站（资源共87091部漫画），该应用程序不提供任何存储和下载功能：
 ## 1、动漫之家
